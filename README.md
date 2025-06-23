@@ -5,7 +5,7 @@ Este repositorio contiene el desarrollo completo de la práctica 2, basada en el
 
 ---
 
-##  Parte A: FSM Básica con LEDs
+## 🧩 Parte A: FSM Básica con LEDs
 
 ### Objetivo
 
@@ -36,6 +36,6 @@ Modelar el comportamiento de dos semáforos vehiculares alternados utilizando un
 
 ---
 
-##  Estructura del repositorio
+##  📁  Estructura del repositorio
 
 

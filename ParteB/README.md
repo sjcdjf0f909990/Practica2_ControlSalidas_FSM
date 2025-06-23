@@ -9,6 +9,9 @@ El sistema implementa una Máquina de Estados Finitos (FSM) para controlar dos s
 3. **B_VERDE:** El semáforo B enciende su LED verde. El semáforo A cambia a rojo.
 4. **B_AMARILLO:** El semáforo B cambia a LED amarillo. El semáforo A permanece en rojo.
 
+### Diagrama de estados:
+
+![Diagrama de Estados](fs2.png)
 ### Transiciones
 
 El sistema inicia en el estado `A_VERDE` y cambia de estado de acuerdo al siguiente ciclo:

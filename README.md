@@ -36,6 +36,4 @@ Modelar el comportamiento de dos semáforos vehiculares alternados utilizando un
 
 ---
 
-##  📁  Estructura del repositorio
-
 
